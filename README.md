@@ -21,7 +21,7 @@ Run the script with: ```python run.py```
 * A set of sample packages processed by the robot.
 * Descriptive console output that simulates robotic arm dispatch behavior.
 
-📝 Example Output
+### 📝 Example Output
 ```
 Tests successfully finalized.
 
