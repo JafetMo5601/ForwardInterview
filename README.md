@@ -3,7 +3,7 @@ This project simulates a robotic arm at Thoughtful’s automation factory that c
 
 ### ✅ Classification Rules
 A package is classified based on the following criteria:
-* Bulky if: Volume (width × height × length) is ≥ 1,000,000 cm3, or any single dimension is >= 150 cm
+* Bulky if: Volume (width × height × length) is >= 1000000 cm3, or any single dimension is >= 150 cm
 * Heavy if: Mass is >= 20 kg
 
 Stack Dispatching Logic:
